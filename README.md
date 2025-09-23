@@ -1,2 +1,4 @@
-# Learning-Journal-Template
-Template for the Learning Journal.
+# Name | Role
+## Date
+- Task done
+- Learnings
